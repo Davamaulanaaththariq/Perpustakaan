@@ -51,7 +51,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.purple,
+          backgroundColor: Color.fromARGB(255, 157, 34, 179),
           title: Text("Daftar Buku"),
           centerTitle: true,
         ),
